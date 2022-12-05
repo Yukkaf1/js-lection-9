@@ -16,3 +16,13 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.success {
+  padding: 10px;
+}
+
+.alert {
+  background-color: blue;
+  color: white;
+  position: absolute;
+}

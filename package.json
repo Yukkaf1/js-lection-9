@@ -24,6 +24,7 @@
   "homepage": "https://yukkaf1.github.io/js-lection-9/",
   "dependencies": {
     "@vimeo/player": "^2.18.0",
+    "bootstrap.native": "^4.2.0",
     "gh-pages": "^4.0.0",
     "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.11.0"
