@@ -16,4 +16,14 @@ img {
   display: block;
 }
 
+.success {
+  padding: 10px;
+}
+
+.alert {
+  color: #fff;
+  background-color: #00f;
+  position: absolute;
+}
+
 /*# sourceMappingURL=index.101ee4ef.css.map */
